@@ -118,21 +118,21 @@
 
 .profile {
   width: 33.3%;
-  height: 450px;
+  height: 350px;
   float: left;
   border: 1px solid black;
 }
 
 .developer {
   width: 33.3%;
-  height: 450px;
+  height: 350px;
   float: left;
   border: 1px solid black;
 }
 
 .designer {
   width: 33.3%;
-  height: 450px;
+  height: 350px;
   border: 1px solid black;
   float: left;
 }
