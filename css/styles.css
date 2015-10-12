@@ -47,8 +47,8 @@
   font-size: 24px;
 }
 
-.quote u {
-  text-decoration-color: yellow;
+.quote span {
+  border-bottom: 3px solid yellow;
 }
 
 .quote strike {
